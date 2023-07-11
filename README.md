@@ -1,5 +1,5 @@
 # CSS-responsive
-Create a website using a responsive
+Create a website using a responsive , grid box
 
 ![image](https://github.com/sorydory/CSS-responsive/assets/116371230/42a0f532-83ec-4cc2-aff3-7888e2b9d2e8)
 
